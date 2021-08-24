@@ -1,0 +1,10 @@
+{
+  "name": "GasolinaAlcool",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
