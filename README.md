@@ -1,5 +1,5 @@
 # AppGasolinaAlcool
 
-<img src="gif.gif">
+<img justify-center src="gif.gif">
 
 ##
